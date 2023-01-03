@@ -23,8 +23,8 @@ pots-and-pans is a python program that carries out the following;
 
 
 TO DO
-- [ X ] Get input from user
-- [ X ] Validates inputs
-- [ X ] Randomly generate a list of 4 number
-- [ X ] Crosscheck the values to determine if there are pots or pans or both
-- [ X ] Game ends when there are all pots.
+- [X] Get input from user
+- [X] Validates inputs
+- [X] Randomly generate a list of 4 number
+- [X] Crosscheck the values to determine if there are pots or pans or both
+- [X] Game ends when there are all pots.
